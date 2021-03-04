@@ -1,7 +1,6 @@
 // Checking eligibility for voting
 
 #include<iostream>
-#include<iso646.h>
 
 using namespace std;
 
